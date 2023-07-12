@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptedPigeon", "EncryptedPigeon\EncryptedPigeon.csproj", "{BC8E8D59-D070-46F4-9D11-9656CB2F1924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8E8D59-D070-46F4-9D11-9656CB2F1924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8E8D59-D070-46F4-9D11-9656CB2F1924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8E8D59-D070-46F4-9D11-9656CB2F1924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8E8D59-D070-46F4-9D11-9656CB2F1924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2A604B-B7A1-4888-B010-4E63431D7D99}
+	EndGlobalSection
+EndGlobal
